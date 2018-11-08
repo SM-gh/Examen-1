@@ -101,7 +101,7 @@ La aplicación debe de desplegar como resultado el mensaje “Puros positivos”
 *Pass/Fail:*
 
 <p align="center">
-  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197709-2ab69b80-e31c-11e8-8482-d7470fc2d67a.PNG">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197727-3ace7b00-e31c-11e8-93df-1b5f37550c19.PNG">
 </p>
 
 *TestCase ID* TC8R1 
@@ -127,5 +127,5 @@ La aplicación debe de desplegar como resultado el mensaje “Selecciona una fig
 *Pass/Fail:*
 
 <p align="center">
-  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197727-3ace7b00-e31c-11e8-93df-1b5f37550c19.PNG">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197709-2ab69b80-e31c-11e8-8482-d7470fc2d67a.PNG">
 </p>
