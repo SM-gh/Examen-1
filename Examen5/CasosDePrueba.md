@@ -94,44 +94,44 @@ La aplicación debe de desplegar como resultado el mensaje “Selecciona una fig
 *Pass/Fail:*
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/SM-gh/Examenes./issues/1">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197618-e4f9d300-e31b-11e8-9b5d-f8dc2695d6ff.PNG">
 </p>
 
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/SM-gh/Examenes./issues/2">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197655-02c73800-e31c-11e8-89d4-f4b15f2f1410.PNG">
 </p>
 
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/SM-gh/Examenes./issues/3">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197669-0b1f7300-e31c-11e8-8efb-75e599720636.PNG">
 </p>
 
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/SM-gh/Examenes./issues/4">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197685-12df1780-e31c-11e8-9ee3-0101abc418cd.PNG">
 </p>
 
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/SM-gh/Examenes./issues/5">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197691-1a062580-e31c-11e8-8c3b-d6c1a66b0ccd.PNG">
 </p>
 
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/SM-gh/Examenes./issues/6">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197697-212d3380-e31c-11e8-869d-ec51f5bdaf19.PNG">
 </p>
 
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/SM-gh/Examenes./issues/7">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197709-2ab69b80-e31c-11e8-8482-d7470fc2d67a.PNG">
 </p>
 
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/SM-gh/Examenes./issues/8">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197717-31dda980-e31c-11e8-8fd4-21c84c2a1c2e.PNG">
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="https://github.com/SM-gh/Examenes./issues/9">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/38449287/48197727-3ace7b00-e31c-11e8-93df-1b5f37550c19.PNG">
 </p>
